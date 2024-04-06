@@ -5,4 +5,4 @@
 ##### Here's the h5 header.
 ###### This h6 header is as small as headers get.
 
-![Image of a meme saying that I basically need a new PC] (https://i.imgflip.com/8ls9lj.jpg)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
