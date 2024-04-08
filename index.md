@@ -22,3 +22,7 @@ This shows git's language
 </body>
 </html>
 ```
+### My task lisk:
+- [ ] Check if the course has been updated to step 5
+- [ ] Check why I couldn't add any other picture in this file
+- [x] Seeing progress
