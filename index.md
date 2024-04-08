@@ -6,3 +6,19 @@
 ###### This h6 header is as small as headers get.
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```
+$ git init
+This shows git's language
+```
+
+```html
+<!DOCTYPE HTML/>
+<html>
+<body>
+<h1> Let's try some HTML code for demonstration purposes </h1>
+</br>
+<p> I'd like for this to work </p>
+</body>
+</html>
+```
